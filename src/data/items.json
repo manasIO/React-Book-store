@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "The subtle art of not giving f*ck",
+    "price": 10.99,
+    "imgUrl": "/images/Book1.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Attitude is everything",
+    "price": 9.99,
+    "imgUrl": "/images/Book2.jpg",
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "name": "The 5am club",
+    "price": 16.99,
+    "imgUrl": "/images/Book3.jpg",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Tools of titans",
+    "price": 19.99,
+    "imgUrl": "/images/Book4.jpg",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Stillness is the key",
+    "price": 14.99,
+    "imgUrl": "/images/Book5.jpg",
+    "rating": 5
+  }
+]
